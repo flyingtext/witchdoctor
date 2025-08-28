@@ -1,2 +1,2 @@
-# bookdoctor
-BookDoctor, dashboard for accounting fraud reports
+# WitchDoctor
+WitchDoctor, dashboard for accounting fraud reports
